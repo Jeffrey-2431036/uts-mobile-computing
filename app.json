@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "UTS Mobile Computing",
+    "slug": "uts-mobile-computing",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#F4F7FB"
+    },
+    "assetBundlePatterns": ["**/*"]
+  }
+}
